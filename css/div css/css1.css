@@ -1,0 +1,57 @@
+#top
+{
+	text-align: center;
+	width: 800px;
+	margin: auto;
+	height: 50px;
+	background-color: red;
+}
+#menu
+{
+	text-align: center;
+	width: 800px;
+	margin: auto;
+	height: 50px;
+	background-color: blue;
+}
+#total
+{
+	text-align: center;
+	width: 800px;
+	margin: auto;
+	height: 500px;
+
+}
+#left
+{
+	text-align: center;
+	width: 160px;
+	height: 500px;
+	background-color: gray;
+	float: left
+
+}
+#between
+{
+	text-align: center;
+	width: 460px;
+	height: 500px;
+	background-color: peru;
+	float: left;
+}
+#right
+{
+	text-align: center;
+	width: 180px;
+	height: 500px;
+	background-color: pink;
+	float: left;
+}
+#last
+{
+	text-align: center;
+	width: 800px;
+	margin: auto;
+	height: 70px;
+	background-color: green;
+}
